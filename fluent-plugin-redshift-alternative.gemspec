@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'fluentd', '~> 0.10.0'
   spec.add_dependency 'aws-sdk', '~> 2'
   spec.add_dependency 'pg', '~> 0.18.0'
-  spec.add_development_dependency 'bundler', '~> 1.9'
+  spec.add_development_dependency 'bundler', ['~> 1.6', '>= 1.6.2']
   spec.add_development_dependency 'rake', '~> 10.0'
   spec.add_development_dependency 'simplecov'
   spec.add_development_dependency 'flexmock'
@@ -27,5 +27,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'webmock'
   spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'yard'
-  spec.add_development_dependency 'pry-byebug'
 end
