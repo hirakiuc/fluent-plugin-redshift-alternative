@@ -1,5 +1,7 @@
 # fluent-plugin-redshift-alternative
 
+[![Build Status](https://travis-ci.org/hirakiuc/fluent-plugin-redshift-alternative.svg?branch=master)](https://travis-ci.org/hirakiuc/fluent-plugin-redshift-alternative)
+[![Coverage Status](https://coveralls.io/repos/hirakiuc/fluent-plugin-redshift-alternative/badge.svg)](https://coveralls.io/r/hirakiuc/fluent-plugin-redshift-alternative)
 [![Code Climate](https://codeclimate.com/github/hirakiuc/fluent-plugin-redshift-alternative/badges/gpa.svg)](https://codeclimate.com/github/hirakiuc/fluent-plugin-redshift-alternative)
 
 This is a fluent output plugin for redshift inspired by [hapyrus/fluent-plugin-redshift](https://github.com/hapyrus/fluent-plugin-redshift).
