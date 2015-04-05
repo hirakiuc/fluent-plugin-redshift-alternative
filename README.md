@@ -1,5 +1,7 @@
 # fluent-plugin-redshift-alternative
 
+[![Code Climate](https://codeclimate.com/github/hirakiuc/fluent-plugin-redshift-alternative/badges/gpa.svg)](https://codeclimate.com/github/hirakiuc/fluent-plugin-redshift-alternative)
+
 This is a fluent output plugin for redshift inspired by [hapyrus/fluent-plugin-redshift](https://github.com/hapyrus/fluent-plugin-redshift).
 
 # WARNING
